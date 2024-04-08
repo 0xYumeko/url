@@ -1,4 +1,4 @@
-<h2> This code is a Python script that uses the requests library to send a POST request to the website 'cutt.us' to shorten a URL. Here's a breakdown of the code: </h2>
+<h1> This code is a Python script that uses the requests library to send a POST request to the website 'cutt.us' to shorten a URL. Here's a breakdown of the code: </h1>
 
 The script defines the URL for the 'cutt.us' website and sets up headers and data for the POST request.
 The headers include information about the user agent, origin, referer, and other security-related details.
